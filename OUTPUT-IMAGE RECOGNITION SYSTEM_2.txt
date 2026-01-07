@@ -1,0 +1,15 @@
+﻿Loading Image Recognition Model...
+Model loaded successfully.
+
+Reading image from: sample.jpg
+Image processed successfully.
+
+Predicting image class...
+
+Ø=IÝm
+ age Recognition Results:
+Object: golden_retriever | Confidence: 91.45%
+Object: Labrador_retriever | Confidence: 6.32%
+Object: cocker_spaniel | Confidence: 1.12%
+
+Image recognition completed.
